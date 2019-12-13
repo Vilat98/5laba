@@ -1,0 +1,160 @@
+/* top-line */
+
+.top-line {
+position: absolute;
+width: 1920px;
+height: 50px;
+left: 0px;
+top: 0px;
+}
+
+/* second-line */
+
+.second-line {
+position: absolute;
+width: 1920px;
+height: 149px;
+left: 0px;
+top: 70px;
+}
+
+/* sale */
+
+.sale {
+position: absolute;
+width: 1920px;
+height: 604px;
+left: 0px;
+top: 249px;
+}
+
+/* goods */
+
+.goods {
+position: absolute;
+width: 1110px;
+height: 430px;
+left: 405px;
+top: 933px;
+}
+
+/* subscribe */
+
+.subscribe {
+position: absolute;
+width: 540px;
+height: 212px;
+left: 405px;
+top: 1463px;
+}
+
+/* Rectangle 4 */
+
+.fon {
+position: absolute;
+width: 540px;
+height: 212px;
+left: 975px;
+top: 1463px;
+
+background: #F13C6E;
+}
+
+/* x36 8 */
+
+.mashina {
+position: absolute;
+left: 1280px;
+top: 1520px;
+
+}
+
+/* our-shops__button */
+
+.ourshopsbutton {
+position: absolute;
+width: 170px;
+height: 35px;
+left: 1015px;
+top: 1605px;
+}
+
+
+/* Более 300 магазинов по всей России */
+
+.bolee {
+position: absolute;
+width: 141px;
+height: 40px;
+left: 1015px;
+top: 1540px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+
+/* Заходите к нам */
+
+.knam {
+position: absolute;
+width: 250px;
+height: 17px;
+left: 1015px;
+top: 1498px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+
+/* brands */
+
+.brands {
+position: absolute;
+width: 1110px;
+height: 358px;
+left: 405px;
+top: 1774px;
+}
+
+/* goods */
+
+.goods2 {
+position: absolute;
+width: 1110px;
+height: 430px;
+left: 405px;
+top: 2212px;
+}
+
+
+.osnova {
+position: absolute;
+width: 1920px;
+height: 1870px;
+left: 0px;
+top: 853px;
+
+/* Gray */
+
+background: #EFEFEF;
+}
+
+/* footer */
+
+.footer {
+position: absolute;
+width: 1920px;
+height: 557px;
+left: 0px;
+top: 2722px;
+}
